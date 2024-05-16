@@ -1,0 +1,6 @@
+pandas
+git+https://github.com/wandb/weave.git@master
+streamlit
+openai
+jupyterlab
+pandas
